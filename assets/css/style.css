@@ -361,14 +361,6 @@ footer select{
 
 /* Responsividade */
 
-@media(max-width: 1500px){
-
-    .information-box{
-        height: 50vh;
-    }
-
-}
-
 @media(max-width: 1450px){
 
     .padding-sections{
